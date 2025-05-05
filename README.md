@@ -1,4 +1,4 @@
-# ParserLicke
+# ParserLike
 solving a problem on parsing html pages
 Из странички испольуя querySelector вытащить суммарное количество лайков с 
 комментария пользователя под названием "@art_creator"
